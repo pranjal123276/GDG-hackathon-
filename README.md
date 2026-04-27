@@ -43,7 +43,7 @@ It analyzes orbital data and simulates future positions to avoid catastrophic sc
 - Step 4: Suggest avoidance
 
 📦 Installation
-- git clone https://github.com/pranjal123276/GDG-hackathon.git
+- git clone https://github.com/pranjal123276/GDG-hackathon-.git
 cd orbital-debris-system
 - npm install
 - npm start
