@@ -1,0 +1,6 @@
+{
+  "name": "Orbit Guard AI",
+  "description": "An intelligent platform for orbital collision prediction, risk assessment, and autonomous satellite maneuver recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
